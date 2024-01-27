@@ -1,0 +1,17 @@
+Name: langchain
+Version: 0.0.303
+
+Name: streamlit
+Version: 1.23.1
+
+Name: openai
+Version: 0.27.8
+
+Name: timm
+Version: 0.9.7
+
+Name: transformers
+Version: 4.33.2
+
+
+
